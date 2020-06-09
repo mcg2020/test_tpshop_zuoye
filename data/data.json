@@ -1,0 +1,29 @@
+[
+  {
+    "username": "13145201401",
+    "reg_password": "519475228fe35ad067744465c42a19b2",
+    "login_password": "123456",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200,
+  },
+  {
+    "username": "13145201402",
+    "reg_password": "519475228fe35ad067744465c42a19b2",
+    "login_password": "123456",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200,
+  },
+  {
+    "username": "13145201403",
+    "reg_password": "519475228fe35ad067744465c42a19b2",
+    "login_password": "123456",
+    "status": 1,
+    "reg_msg": "注册成功",
+    "login_msg": "登陆成功",
+    "http_code": 200,
+  }
+]
